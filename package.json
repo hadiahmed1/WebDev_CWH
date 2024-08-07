@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "file_system",
+  "version": "1.0.0",
+  "description": "\"Learning about fs\"",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hadi",
+  "license": "ISC"
 }
